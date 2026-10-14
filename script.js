@@ -9,8 +9,8 @@
   // ==========================================================================
   // 1. CONSTANTS & CONFIGURATION
   // ==========================================================================
-  const STORAGE_KEY = "tileworks_sequence_state_v2";
-  const HOME_URL = "#home"; // Injected by Tileworks host container
+  const STORAGE_KEY = "cannatileworks_sequence_state_v2";
+  const HOME_URL = "https://tileworksgamesstudio.github.io/CannaGames-Home/"; // Injected by Tileworks host container
   const MAX_ATTEMPTS = 4;
   const SLOTS_COUNT = 5;
   const CANONICAL_TIMEZONE = "Europe/London";
